@@ -1,0 +1,24 @@
+{
+  "environment": "production",
+  "expires_at": "2027-04-04T13:45:39Z",
+  "publishers": {
+    "microclaw-examples": {
+      "keys": [
+        {
+          "key_id": "4319e8d2b0743ce0bb48ce9c082ed00c3560ca453be150fe847db81281f50bb5",
+          "public_key": "gHJV5uQIKzGBz9L5sbr24DoGRNeXvZIO3nhp/bJwsP0=",
+          "state": "active"
+        }
+      ],
+      "state": "active"
+    }
+  },
+  "revision": 2,
+  "revoked_releases": [],
+  "signature": {
+    "alg": "ed25519",
+    "key_id": "e8a3f493fe7616cd17289cbeecb989aa79c4f72c3c1d6a72d40c9b515344adc9",
+    "value": "M45OVxZkfUt800yZMEpCOckniYQeUQwsPZ42Zj+MoSDsf5rcxxUgJlAj7b06Vy3LDGKcGQcNDlakRIkK0bULCw=="
+  },
+  "type": "microclaw.trust-policy.v1"
+}
