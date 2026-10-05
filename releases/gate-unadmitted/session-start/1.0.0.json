@@ -1,0 +1,24 @@
+{
+  "artifact": "https://example.org/83f5-gate-unadmitted.zip",
+  "artifact_digest": "97aa393a91c76f6dc50780e40c7b81c1755f97a1dd31137766232d63167bec72",
+  "issues_url": "https://github.com/Micro-Claw/example-skill-package/issues",
+  "kind": "markdown",
+  "license": "BSD-3-Clause",
+  "microclaw": ">=0.1,<2",
+  "package_id": "session-start",
+  "publisher": "gate-unadmitted",
+  "signature": {
+    "alg": "ed25519",
+    "key_id": "55fcde6424a8b5b05c6287dc682af808d5fceb2c9ed9d1957ff3a2c590452edf",
+    "value": "V7s0Mkp+Fd7u9SvOlMP6RJ6wjZblOfNVBjwuCcyUfrOJtOmhsvZQ5ketRHJKFWl+xR8nYz3KJSUjbRHsZ7tGDw=="
+  },
+  "skills": [
+    {
+      "description": "A checklist for the first acquisition on an unfamiliar system.",
+      "name": "open-unfamiliar-system"
+    }
+  ],
+  "source_url": "https://github.com/Micro-Claw/example-skill-package",
+  "type": "microclaw.skill-release.v1",
+  "version": "1.0.0"
+}
