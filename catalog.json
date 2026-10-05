@@ -1,5 +1,30 @@
 {
-  "releases": [],
+  "releases": [
+    {
+      "artifact": "https://github.com/Micro-Claw/example-skill-package/releases/download/v1.0.0/session-start.zip",
+      "artifact_digest": "aeacab11740516e27b41a04b57753588a8f51d550c751da51671ecdadd6bef24",
+      "issues_url": "https://github.com/Micro-Claw/example-skill-package/issues",
+      "kind": "markdown",
+      "license": "BSD-3-Clause",
+      "microclaw": ">=0.1,<2",
+      "package_id": "session-start",
+      "publisher": "microclaw-examples",
+      "signature": {
+        "alg": "ed25519",
+        "key_id": "4319e8d2b0743ce0bb48ce9c082ed00c3560ca453be150fe847db81281f50bb5",
+        "value": "qHKcr8pPXU9dMm3Zp71p/j1fjKde2Q+Cj2iWJcwhsxvVwSQ50TksjBZQr4mIZz0uVBvyjZY/10odZKWZmfakCg=="
+      },
+      "skills": [
+        {
+          "description": "A checklist for the first acquisition on an unfamiliar system.",
+          "name": "open-unfamiliar-system"
+        }
+      ],
+      "source_url": "https://github.com/Micro-Claw/example-skill-package",
+      "type": "microclaw.skill-release.v1",
+      "version": "1.0.0"
+    }
+  ],
   "type": "microclaw.catalog.v1",
   "withdrawals": []
 }
