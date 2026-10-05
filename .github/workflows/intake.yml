@@ -11,7 +11,7 @@ concurrency:
   group: catalog-${{ github.event.pull_request.base.ref }}
   cancel-in-progress: false
 env:
-  MICROCLAW_COMMIT: 7579be11cf3314fae920e3cd19f5e6667a5d370d
+  MICROCLAW_COMMIT: d5a618245042a4a78f8c6d7bbc05ebef4d1837a0
 jobs:
   intake:
     runs-on: ubuntu-latest
