@@ -1,6 +1,6 @@
 {
   "environment": "production",
-  "expires_at": "2027-04-04T13:45:39Z",
+  "expires_at": "2027-04-08T10:56:46Z",
   "publishers": {
     "microclaw-examples": {
       "keys": [
@@ -11,14 +11,24 @@
         }
       ],
       "state": "active"
+    },
+    "ries-lab": {
+      "keys": [
+        {
+          "key_id": "f2cde73017bb4d9daaea1e86008927f713b7e5c37f7bc645f6c3950a261c52bd",
+          "public_key": "mC+3CyT/cMQwcD8c3rcrsk/oiQacUjyw0o2YawbSahc=",
+          "state": "active"
+        }
+      ],
+      "state": "active"
     }
   },
-  "revision": 2,
+  "revision": 3,
   "revoked_releases": [],
   "signature": {
     "alg": "ed25519",
     "key_id": "e8a3f493fe7616cd17289cbeecb989aa79c4f72c3c1d6a72d40c9b515344adc9",
-    "value": "M45OVxZkfUt800yZMEpCOckniYQeUQwsPZ42Zj+MoSDsf5rcxxUgJlAj7b06Vy3LDGKcGQcNDlakRIkK0bULCw=="
+    "value": "CarxtNr0B4ZadzYCzFiELX6MyxYHQAk7mISURBDo19dTe9/NrpysuF4cgzmgGkNomnsRi/SN3tPTzyc2mCAdAQ=="
   },
   "type": "microclaw.trust-policy.v1"
 }
