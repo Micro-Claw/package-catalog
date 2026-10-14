@@ -1,0 +1,29 @@
+{
+  "artifact": "https://github.com/ries-lab/smappy-microclaw/releases/download/v0.1.2/package.zip",
+  "artifact_digest": "2ac00093869459868e084c1d3fd32c74044f635576966d476e175517569c05f1",
+  "issues_url": "https://github.com/ries-lab/smappy-microclaw/issues",
+  "kind": "executable",
+  "license": "BSD-3-Clause",
+  "microclaw": ">=0.1,<2",
+  "package_id": "smappy",
+  "platforms": [
+    "win_amd64"
+  ],
+  "protocol_version": "1.1",
+  "publisher": "ries-lab",
+  "python": ">=3.12,<3.13",
+  "signature": {
+    "alg": "ed25519",
+    "key_id": "f2cde73017bb4d9daaea1e86008927f713b7e5c37f7bc645f6c3950a261c52bd",
+    "value": "diMP+tExvsYTIcCa+1ZvEmy9IiqqvIdRa3eV5ssNhaYTohcKBvT9NGgg8q9/huzptLVPBD1q6O+EDLdQBG+kDw=="
+  },
+  "skills": [
+    {
+      "description": "Fit single-molecule localization data (SMLM) with SMAPpy while it is acquired or after, with the reconstruction shown in SMAPpy's window.",
+      "name": "smappy-live-fitting"
+    }
+  ],
+  "source_url": "https://github.com/ries-lab/smappy-microclaw",
+  "type": "microclaw.skill-release.v1",
+  "version": "0.1.2"
+}
